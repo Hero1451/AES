@@ -1,0 +1,13 @@
+﻿  aes.c
+  aesni.c
+  main.c
+h:\download\新建文件夹\qrcode\qrcode\qrcode\main.c(69): warning C4013: “strlen”未定义；假设外部返回 int
+h:\download\新建文件夹\qrcode\qrcode\qrcode\main.c(137): warning C4778: “printf”: 格式字符串“%\n”未终止
+h:\download\新建文件夹\qrcode\qrcode\qrcode\main.c(137): warning C4474: printf: 格式字符串中传递的参数太多
+  h:\download\新建文件夹\qrcode\qrcode\qrcode\main.c(137): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+  platform.c
+  platform_util.c
+  QRCode.c
+h:\download\新建文件夹\qrcode\qrcode\qrcode\qrcode.c(39): warning C4244: “return”: 从“unsigned long”转换到“unsigned short”，可能丢失数据
+  正在生成代码...
+  QRCode.vcxproj -> H:\download\新建文件夹\QRCode\QRCode\Debug\QRCode.exe
